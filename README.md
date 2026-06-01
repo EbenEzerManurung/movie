@@ -9,9 +9,6 @@
 
 > A modern, performant movie streaming web app inspired by Netflix. Built with React, TypeScript, and Vite. Features full PWA support, offline caching, and advanced performance optimizations.
 
-🔴 **Live Demo:** [https://movies-app.example.com](https://movies-app.example.com) *(ganti dengan link Vercel/Netlify-mu jika sudah deploy)*
-
-![App Screenshot](https://via.placeholder.com/1200x630?text=Movies+App+Screenshot) *(Ganti dengan screenshot asli project-mu)*
 
 ---
 
