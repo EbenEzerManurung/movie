@@ -46,6 +46,7 @@
 ## 📦 Installation & Setup
 
 ### Prerequisites
+- React.js (19.1.0)
 - Node.js (v25 or later)
 - npm or yarn
 - TMDB API Key (free)
@@ -90,6 +91,7 @@ npm run dev
 #search movies
 <img width="1831" height="838" alt="image" src="https://github.com/user-attachments/assets/87afb155-650a-4996-a776-55888f45c772" />
 
-
+#Run movie
+<img width="1858" height="814" alt="image" src="https://github.com/user-attachments/assets/a3dd294d-769b-4632-828b-56338acf544d" />
 
 
