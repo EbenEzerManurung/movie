@@ -1,4 +1,4 @@
-<div align="center">
+
   
   # 🎬 MOVIES APP
   
@@ -94,5 +94,3 @@ npm run dev
 
 #Run movie
 <img width="1858" height="814" alt="image" src="https://github.com/user-attachments/assets/a3dd294d-769b-4632-828b-56338acf544d" />
-
-
