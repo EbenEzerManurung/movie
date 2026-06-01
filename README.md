@@ -56,3 +56,7 @@
    ```bash
    git clone https://github.com/EbenEzerManurung/movie.git
    cd movie
+
+   # \# Dashboard
+
+# <img width="1917" height="841" alt="image" src="https://github.com/user-attachments/assets/05236e4a-5e4a-4061-a329-8de6a65b8ae0" />
