@@ -81,7 +81,11 @@ npm run dev
 
 # \# screenshots:
 
-#<img width="1891" height="928" alt="image" src="https://github.com/user-attachments/assets/e9b6f46e-2fad-4438-870c-3987e5a2e91f" />
+<img width="1891" height="928" alt="image" src="https://github.com/user-attachments/assets/e9b6f46e-2fad-4438-870c-3987e5a2e91f" />
+
+<img width="1887" height="916" alt="image" src="https://github.com/user-attachments/assets/642d6e53-5ef1-4e40-85dd-304665590266" />
+
+<img width="1831" height="838" alt="image" src="https://github.com/user-attachments/assets/87afb155-650a-4996-a776-55888f45c772" />
 
 
 
