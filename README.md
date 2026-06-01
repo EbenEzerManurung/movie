@@ -4,7 +4,7 @@
   
   ### Netflix Style Movie Streaming Platform
   
-<img width="1891" height="928" alt="image" src="https://github.com/user-attachments/assets/e9b6f46e-2fad-4438-870c-3987e5a2e91f" />
+<img width="1887" height="916" alt="image" src="https://github.com/user-attachments/assets/642d6e53-5ef1-4e40-85dd-304665590266" />
   
   [![React](https://img.shields.io/badge/React-19.1.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
