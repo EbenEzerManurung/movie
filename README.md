@@ -1,16 +1,20 @@
-# 🎬 Movies App - Netflix Style Movie Streaming Platform
-
-![React](https://img.shields.io/badge/React 19.1.0-61DAFB?logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?logo=typescript&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-06B6D4?logo=tailwindcss&logoColor=white)
-![PWA](https://img.shields.io/badge/PWA-Enabled-5A0FC8?logo=pwa&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-green)
-
-> A modern, performant movie streaming web app inspired by Netflix. Built with React, TypeScript, and Vite. Features full PWA support, offline caching, and advanced performance optimizations.
-
-
----
+<div align="center">
+  
+  # 🎬 MOVIES APP
+  
+  ### Netflix Style Movie Streaming Platform
+  
+  ![Banner](https://raw.githubusercontent.com/EbenEzerManurung/movie/main/public/tec.png)
+  
+  [![React](https://img.shields.io/badge/React-19.1.0-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+  [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+  [![Vite](https://img.shields.io/badge/Vite-6.0-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://vitejs.dev/)
+  [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.0-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)](https://tailwindcss.com/)
+  [![PWA](https://img.shields.io/badge/PWA-Enabled-5A0FC8?style=for-the-badge&logo=pwa&logoColor=white)](https://web.dev/progressive-web-apps/)
+  
+  [![GitHub stars](https://img.shields.io/github/stars/EbenEzerManurung/movie?style=social)](https://github.com/EbenEzerManurung/movie/stargazers)
+  [![GitHub forks](https://img.shields.io/github/forks/EbenEzerManurung/movie?style=social)](https://github.com/EbenEzerManurung/movie/network)
+  [![GitHub watchers](https://img.shields.io/github/watchers/EbenEzerManurung/movie?style=social)]
 
 ## ✨ Key Features
 
