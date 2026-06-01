@@ -77,7 +77,7 @@ npm run build
 Run the application
 ```bash
 npm run dev
-
+```
 
 # \# screenshots:
 
