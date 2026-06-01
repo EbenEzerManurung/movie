@@ -52,11 +52,37 @@
 
 ### Steps
 
-1. **Clone the repository**
+Clone the repository
    ```bash
    git clone https://github.com/EbenEzerManurung/movie.git
    cd movie
 
-   # \# Dashboard
+   Navigate to the project directory:
 
-# <img width="1917" height="841" alt="image" src="https://github.com/user-attachments/assets/05236e4a-5e4a-4061-a329-8de6a65b8ae0" />
+```bash
+cd dotnet-ritel
+```
+
+Restore dependencies:
+
+```bash
+dotnet restore
+```
+
+Build the application:
+```bash
+dotnet build
+```
+
+Run the application
+```bash
+dotnet run
+
+
+# <img width="1891" height="928" alt="image" src="https://github.com/user-attachments/assets/e9b6f46e-2fad-4438-870c-3987e5a2e91f" />
+
+<img width="1887" height="916" alt="image" src="https://github.com/user-attachments/assets/cde640de-024a-4ea7-bb8b-e051fdd53e52" />
+
+<img width="1831" height="838" alt="image" src="https://github.com/user-attachments/assets/6e6dbd6e-0ac6-4372-9f83-b0b188dec528" />
+
+
