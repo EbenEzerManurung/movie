@@ -33,7 +33,7 @@
 
 | Category       | Technology                                                                 |
 |----------------|----------------------------------------------------------------------------|
-| **Frontend**   | React 19.1.0, TypeScript, Vite                                                 |
+| **Frontend**   | React.js 19.1.0, TypeScript, Vite                                                 |
 | **Styling**    | Tailwind CSS, CSS Modules                                                  |
 | **Routing**    | React Router DOM                                                           |
 | **State Mgmt** | Context API (Theme, Search, Genres)                                        |
